@@ -1,0 +1,90 @@
+# 🚢 Titanic Exploratory Data Analysis (EDA)
+
+## 📌 Project Overview
+
+This project is a part of the **Data Science with Python Internship – Task 3** at **MainCrafts Technology**.
+
+The objective of this project is to perform **Exploratory Data Analysis (EDA)** on the Titanic dataset by cleaning the data, handling missing values, creating new features, and visualizing key insights using Python.
+
+---
+
+## 📂 Dataset
+
+- Dataset: Titanic Dataset
+- Source: Kaggle
+
+---
+
+## 🛠️ Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+---
+
+## 📊 Project Tasks
+
+### ✅ Data Cleaning
+- Filled missing Age values using Mean
+- Removed irrelevant column (Cabin)
+- Created Age Groups
+- Created Family Size feature
+
+### ✅ Exploratory Data Analysis
+- Survival Rate by Age Group
+- Survival Rate by Embarkation Port
+- Survival Rate by Family Size
+
+### ✅ Visualizations
+- Age Distribution Histogram
+- Correlation Heatmap
+- Survival Rate by Family Size
+- Survival Rate by Age Group
+
+---
+
+## 📈 Key Insights
+
+- Children had a higher survival rate than adults.
+- Smaller families showed better survival chances.
+- Passenger class and fare were strongly related to survival.
+- Missing values were handled before analysis.
+
+---
+
+## 📁 Project Files
+
+```
+Titanic_EDA.ipynb
+Titanic.csv
+README.md
+```
+
+---
+
+## 🎯 Learning Outcomes
+
+- Data Cleaning
+- Missing Value Imputation
+- Feature Engineering
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Storytelling with Data
+
+---
+
+## 👨‍💻 Author
+
+**Chetan Kushwah**
+
+Aspiring Data Analyst | Python | SQL | Power BI | Data Analytics
+
+LinkedIn:
+(Add your LinkedIn Profile)
+
+GitHub:
+(Add your GitHub Profile)
